@@ -11,8 +11,8 @@ Payment Service handles secure payment processing through Stripe API. It uses St
 - 🔄 Idempotency for duplicate prevention
 
 ## Tech Stack
-- Spring Boot 3.2.0
-- Java 17
+- Spring Boot 4.0
+- Java 21
 - PostgreSQL
 - Apache Kafka
 - Stripe API (with Webhooks)
